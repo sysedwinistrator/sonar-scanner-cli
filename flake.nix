@@ -1,7 +1,7 @@
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs";
-    mvn2nix.url = "github:sysedwinistrator/mvn2nix/aarch64-darwin";
+    mvn2nix.url = "github:sysedwinistrator/mvn2nix";
     utils.url = "github:numtide/flake-utils";
   };
 

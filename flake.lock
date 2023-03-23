@@ -6,16 +6,15 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1679568602,
-        "narHash": "sha256-hFQYdFtD9INCjPCL4Wx8POEl0i7Gg1yRysTIk7y6vpI=",
+        "lastModified": 1629170129,
+        "narHash": "sha256-v/HvYqzkPaGin1ujo+Fi59wXC9vWxW3lYVSwElORRi8=",
         "owner": "sysedwinistrator",
         "repo": "mvn2nix",
-        "rev": "394b9f13d954e067184b06b5b9bada0c1f3c480b",
+        "rev": "ea21cfe97069feee55fa307ca9b125616c1fa84f",
         "type": "github"
       },
       "original": {
         "owner": "sysedwinistrator",
-        "ref": "aarch64-darwin",
         "repo": "mvn2nix",
         "type": "github"
       }
